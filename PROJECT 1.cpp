@@ -13,7 +13,7 @@ string clothes,type,colour,size,address,s,timing,name,day;
 one:
 cout << "========================================================" << "\n \n \n \n";
     
-cout << "           WELCOME TO MALL FOR ALL\n";
+cout << "            WELCOME TO OneStop\n";
 cout << "            How can I help you?          " << "\n \n \n";
     
 cout << "Press 1: To look in clothing \n";
